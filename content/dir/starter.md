@@ -1,14 +1,14 @@
 ---
-featured: false
-tags:
-  - marketing automation
-  - email marketing
-  - sms marketing
-card_image: /listing/klaviyo.png 
-description: Unified platform enabling brands to automate personalized email and SMS communications.
-title: Klaviyo
+layout: wide
+description: Read the best articles related to the directory.
 ---
 
-# Klaviyo
+::center-hero{icon="tabler:zeppelin"}
+# Welcome to the Blog
 
-Klaviyo is a leading marketing automation platform that helps businesses deliver personalized email and SMS campaigns. Founded in 2012, [Klaviyo](https://www.klaviyo.com/) has grown to become a key player in the MarTech space, with a focus on helping businesses drive customer engagement and revenue growth.
+#description
+Read the best articles related to the directory.
+And earn SEO points by writing more articles.
+::
+
+:blogGrid
