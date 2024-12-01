@@ -2,15 +2,16 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "The Growthackers",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
+
   site: {
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
+    name: "The Growthackers",
     description: "Example Description",
     url: "https://example.com",
     favicon: {
@@ -18,6 +19,7 @@ export default defineAppConfig({
       emoji: "🍃",
     },
   },
+
   directory: {
     search: {
       placeholder: "Search among {0} tools",
@@ -71,6 +73,7 @@ export default defineAppConfig({
         "View all available tools and templates in the {0} category...",
     },
   },
+
   header: {
     banner: {
       show: true,
@@ -96,6 +99,7 @@ export default defineAppConfig({
       href: "/submit",
     },
   },
+
   footer: {
     description: "Best directory for my niche.",
     socials: {
@@ -121,10 +125,15 @@ export default defineAppConfig({
       },
     },
   },
+
   ui: {
     icons: {
       dark: "tabler:moon",
       light: "tabler:sun",
     },
+  },
+
+  icon: {
+    size: "GTM ",
   },
 });
