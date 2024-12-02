@@ -12,11 +12,11 @@ export default defineAppConfig({
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
     name: "The Growthackers",
-    description: "Example Description",
+    description: "Build Your MVP Fast ",
     url: "https://example.com",
     favicon: {
       image: "",
-      emoji: "🍃",
+      emoji: "📢",
     },
   },
 
@@ -58,15 +58,21 @@ export default defineAppConfig({
       icon: "tabler:star",
       labelForCard: "Featured ✨",
     },
-    tags: [
-      { name: "SAAS", color: "blue" },
-      { name: "dashboard", color: "green" },
-      { name: "landing-page" },
-      { name: "toolbox" },
-      { name: "agency" },
-      { name: "markdown-based" },
-      { name: "basics", color: "indigo" },
-    ],
+    tags: [{
+      name: "Go-to-Market (GTM)",
+      color: "blue",
+    }, {
+      name: "SaaS",
+      color: "green",
+    }, {
+      name: "Entrepreneurship",
+      color: "indigo",
+    }, {
+      name: "Marketing",
+      color: "red",
+    }, {
+      name: "Productivity",
+    }],
     tagPages: {
       title: "Available {0} products:",
       description:
@@ -77,9 +83,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Create your own directory website in minutes.",
+      text: " Launch  your own directory website Service.",
       link: "https://minteddirectory.com",
-      brandText: "MintedDirectory",
+      brandText: "LaunchFast",
     },
     navbar: {
       colorModeSelector: true,
@@ -134,6 +140,6 @@ export default defineAppConfig({
   },
 
   icon: {
-    size: "GTM ",
+    size: "",
   },
 });
