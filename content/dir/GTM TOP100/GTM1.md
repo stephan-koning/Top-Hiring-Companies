@@ -2,7 +2,7 @@
 featured: false
 tags:
   - Web Analytics & Optimization
-card_image: https://rampmetrics.com/wp-content/uploads/2020/06/logo-white@2x.png
+card_image: https://cdn.prod.website-files.com/66ce27269db47932cabe1f0b/66ce49fbc1c14ec3ce3e4cef_rampmetrics-logo.png
 title: Rampmetrics
 description: Marketing analytics software and attribution services for data-driven performance insights.
 ---
