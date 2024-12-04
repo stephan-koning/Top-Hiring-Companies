@@ -2,7 +2,7 @@
 featured: false
 tags:
   - Web Analytics & Optimization
-card_image: https://cdn.prod.website-files.com/66ce27269db47932cabe1f0b/66ce49fbc1c14ec3ce3e4cef_rampmetrics-logo.png
+card_image: 
 title: Rampmetrics
 description: Marketing analytics software and attribution services for data-driven performance insights.
 ---
@@ -13,4 +13,3 @@ Rampmetrics has successfully secured total funding of over $13 million, enabling
 
 Want to work at Rampmetrics? Check out their careers page: [Rampmetrics Careers](https://rampmetrics.com/careers)
 
-Interested in exploring other opportunities in the GTM tech space? Visit our job board for a wide range of open positions: [PeerSignal Job Board](https://peersignal.org/jobs)
